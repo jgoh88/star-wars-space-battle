@@ -10,7 +10,7 @@ let game_grid
 let game_grid_blocks
 let max_hp_bar_width
 const game_alert_message_duration = 1000  // in miliseconds
-const cheat_mode = false
+let cheat_mode = false
 
 let x_wing
 // let death_star
