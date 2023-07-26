@@ -4,6 +4,7 @@ This game was built to practice the basics of HTML, CSS and JavaScript. Players 
 
 Features of the game:
 * 7 levels of entertaining fun and increasing difficulty
+* Star Wars classic soundtrack
 
 ![alt text](./assets/screenshots/star_wars_space_battle.png "Star Wars Space Battle feature screenshots")
 
